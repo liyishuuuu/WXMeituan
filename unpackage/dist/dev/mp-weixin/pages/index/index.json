@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "美团外卖",
+  "usingComponents": {
+    "search": "/pages/index/component/search",
+    "preference": "/pages/index/component/preference",
+    "title": "/pages/index/component/title",
+    "delicacy": "/pages/index/component/delicacy",
+    "takeout": "/pages/index/component/takeout"
+  }
+}
